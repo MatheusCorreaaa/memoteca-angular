@@ -1,0 +1,53 @@
+{
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev da madrugada",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 4,
+      "conteudo": "Vc faz TI? Conserta meu celular!",
+      "autoria": "Grupo da família",
+      "modelo": "modelo2",
+      "favorito": true
+    },
+    {
+      "id": 5,
+      "conteudo": "Já tentou reiniciar o roteador?",
+      "autoria": "Pessoa da operadora",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "id": 6,
+      "conteudo": "Por que meu código funcionou?",
+      "autoria": "Dev ",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "id": 9,
+      "conteudo": "Sou poliglota; falo português, inglês e JavaScript!",
+      "autoria": "Devs",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "id": 10,
+      "conteudo": "Pensamento de teste",
+      "autoria": "dev angular",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "conteudo": "Da vida reclama,mas sem ela n vive",
+      "autoria": "Yoda",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 11
+    }
+  ]
+}
